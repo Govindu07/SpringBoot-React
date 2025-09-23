@@ -47,3 +47,42 @@ dist/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# ------------------------
+# Backend (Spring Boot)
+# ------------------------
+target/
+.mvn/
+!mvnw
+!mvnw.cmd
+!.mvn/wrapper/maven-wrapper.properties
+!.mvn/wrapper/MavenWrapperDownloader.java
+
+# Ignore logs
+*.log
+
+# ------------------------
+# Frontend (React)
+# ------------------------
+node_modules/
+build/
+dist/
+
+# Ignore lock files (optional, keep if needed)
+package-lock.json
+yarn.lock
+
+# ------------------------
+# IDEs & Editors
+# ------------------------
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# ------------------------
+# OS files
+# ------------------------
+.DS_Store
+Thumbs.db
