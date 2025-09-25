@@ -62,7 +62,7 @@ student-management-system/
 
 ---
 
-## 6. Preview (Optional)
+## 6. Preview 
 + Screenshots of project output.
 <img width="1688" height="729" alt="Screenshot 2025-09-25 163231" src="https://github.com/user-attachments/assets/76b6feb3-1205-4a35-96a9-b57225776fcb" />
 
